@@ -2,7 +2,7 @@ body{
     width: 100%;
 }
 .navbar{
-    background-color: rgb(14, 13, 13);
+    border-bottom: 1px solid #ccc;
     width: 100%;
     position: absolute;
     top: 0;
@@ -14,7 +14,7 @@ body{
     cursor: pointer;
     border: none;
     background: none;
-    color: white;
+    color: black;
 }
 .navbar input:hover{
     color: rgb(92, 92, 250);

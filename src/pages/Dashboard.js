@@ -24,7 +24,7 @@ function Dashboard() {
             <form className="home-page">
                 <div className="navbar">
                     <>
-                   <Acent style={{width:'50px', margin:'5px 10px'}}/> 
+                   <Acent style={{width:'50px', margin:'5px 30px'}}/> 
                    </>
                    <> 
                    <input type="submit" value="Log out" onClick={()=> handleLogOutClick()}/>
